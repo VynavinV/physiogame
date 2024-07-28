@@ -29,3 +29,8 @@ We used python mediapipe and the Unity Mediapipe Body plugin to send pose data a
 
 ## What's next for Physiogame
 We are looking to commercialize Physiogame and partner with clinics to get this in public testing to see what we can improve and how we can further help in the industry. 
+
+
+## How to run:
+- run main.py
+- open unity project and enter play mode
