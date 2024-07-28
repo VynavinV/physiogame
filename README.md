@@ -34,3 +34,7 @@ We are looking to commercialize Physiogame and partner with clinics to get this 
 ## How to run:
 - run main.py
 - open unity project and enter play mode
+
+## Packages used
+- Mediapipe
+- Unity mediapipe body plugin
